@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "anna cinema app",
+    "mongoUri": "mongodb+srv://Anna:anna123@cluster0.utk2s.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    
+}
