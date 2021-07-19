@@ -14,8 +14,7 @@ const schema = new Schema({
         type: Boolean,
     },
     phone: {
-        type: Number,
-        unique: true
+        type: Number
     },
     birthday: {
         type: String
